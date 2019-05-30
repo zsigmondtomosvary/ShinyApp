@@ -1,0 +1,4 @@
+# ShinyApp
+
+## Author
+Zsigmond Tömösvary
